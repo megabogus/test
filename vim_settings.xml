@@ -1,0 +1,105 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1538118411103">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/manage.py@dev-invaders" timestamp="1538055179465">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/docker-compose.yml" timestamp="1538045679818">
+        <mark key="[" line="12" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1538032972352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/frontend/static/recycle/js/components/wasteListing/waste-listing.js" timestamp="1538114583647">
+        <mark key="[" line="156" column="48" />
+        <mark key="]" line="156" column="48" />
+        <mark key="." line="156" column="48" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/deal/views.py" timestamp="1538115795785">
+        <mark key="[" line="119" column="68" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/deal/templates/deal/deal_create.html" timestamp="1538117919558">
+        <mark key="[" line="41" column="54" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/collector/views.py" timestamp="1538115135749">
+        <mark key="[" line="585" column="56" />
+        <mark key="]" line="693" column="91" />
+        <mark key="." line="693" column="91" />
+      </file>
+      <file name="/Django Console" timestamp="1538053878949">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/waste/templates/waste/listing.html" timestamp="1538113704115">
+        <mark key="[" line="146" column="89" />
+        <mark key="]" line="114" column="72" />
+        <mark key="^" line="114" column="72" />
+        <mark key="." line="114" column="72" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/collector/templates/provider/info.html" timestamp="1538109938650">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/gorod44/dev-gorod44/App/announce/a_command.py" timestamp="1538056008199">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/frontend/static/recycle/js/components/addNewProvider/addProviderForm.js" timestamp="1538116183397">
+        <mark key="[" line="227" column="87" />
+      </file>
+      <file name="$USER_HOME$/other/web/docker/invaders/dev-invaders/App/src/recycleros/collector/templatetags/collector_tags.py" timestamp="1538034334898">
+        <mark key="[" line="36" column="82" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Uk9TLTQxOSDQlNC+0LHQsNCy0LjQuyDQv9GA0LjQu9C+0LbQtdC90LjQtSBkamFuZ28tcm9zZXR0YQpST1MtNDIyINCh0LrRgNGL0Lsg0LLRi9Cy0L7QtCDRg9C00LDQu9C10L3QvdGL0YUg0YHQtNC10LvQvtC6Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Uk9TLTQxOSDQlNC+0LHQsNCy0LjQuyDQv9GA0LjQu9C+0LbQtdC90LjQtSBkamFuZ28tcm9zZXR0YQpST1MtNDIyINCh0LrRgNGL0Lsg0LLRi9Cy0L7QtCDRg9C00LDQu9C10L3QvdGL0YUg0YHQtNC10LvQvtC6Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>,
+                [priceCurrency, deltaCurrency]</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKG1lc3NhZ2UpOw==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
