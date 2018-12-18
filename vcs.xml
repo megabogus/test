@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="az-invaders" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.expert.ru" />
+          <option name="userName" value="az" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
